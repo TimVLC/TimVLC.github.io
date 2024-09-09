@@ -1,3 +1,12 @@
 body {
     background-image: url("b6d46e7e7eeeb02dfbd392149d63e1f5.jpg");
   }
+  li {
+    float: left;
+  }
+  
+  a {
+    display: block;
+    padding: 8px;
+    background-color: #dddddd;
+  }
